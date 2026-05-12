@@ -14,13 +14,13 @@ Il n'y a pas de date prévue pour le moment.
 
 ## Informations sur la formation
 
-| Champ | Valeur |
-|---|---|
-| **Durée** | 2h |
-| **Intervenant(e)s** | Coralie Bouffard |
-| **Modalité** | En présentiel, présentation et manipulation par les participant·e·s |
-| **Thématique** | Outils |
-| **Étape pédagogique** | Animation |
+| Champ                 | Valeur                                                              |
+| --------------------- | ------------------------------------------------------------------- |
+| **Durée**             | 2h                                                                  |
+| **Intervenant(e)s**   | Coralie Bouffard                                                    |
+| **Modalité**          | En présentiel, présentation et manipulation par les participant·e·s |
+| **Thématique**        | Outils                                                              |
+| **Étape pédagogique** | Animation                                                           |
 
 ---
 

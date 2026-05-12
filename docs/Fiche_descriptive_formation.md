@@ -12,13 +12,13 @@
 
 ## Informations sur la formation
 
-| Champ | Valeur |
-|---|---|
-| **Durée** | |
-| **Intervenant(e)s** | |
-| **Modalité** | |
-| **Thématique** | |
-| **Étape pédagogique** | |
+| Champ                 | Valeur                                                              |
+| --------------------- | ------------------------------------------------------------------- |
+| **Durée**             | 2-3h                                                                |
+| **Intervenant(e)s**   | Jonathan Deniel                                                     |
+| **Modalité**          | En présentiel, présentation et manipulation par les participant·e·s |
+| **Thématique**        | Outils : IA - LLMs                                                  |
+| **Étape pédagogique** | Utilisation des LLM niveau moyen / avancé                           |
 
 ---
 

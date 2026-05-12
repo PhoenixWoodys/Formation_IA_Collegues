@@ -6,24 +6,31 @@ Conception et animation d'une session de formation sur l'IA à destination des c
 
 ## État
 
-- Statut : **en cours de conception**
+- Statut : **Étape 1 — préparation séminaire 18/06/2026**
 - Fiche Obsidian : [[Fiche_Formation_IA_Collegues]]
+- Roadmap : `docs/Roadmap.md`
 
 ## Structure
 
 ```
 Formation_IA_Collegues/
-├── CLAUDE.md              — Ce fichier
-├── JOURNAL.md             — Journal du projet
-├── docs/                  — Documents de travail (plan, supports, activités)
-└── ressources/            — Références, exemples, matériaux pédagogiques
+├── CLAUDE.md
+├── JOURNAL.md
+├── docs/
+│   ├── Roadmap.md                              — Roadmap globale du projet
+│   ├── Fiche_descriptive_formation.md          — Fiche au format NUMERIQUE UNJFC
+│   └── Seminaire_2026-06-18/
+│       └── Brief.md                            — Brief de la présentation séminaire
+└── ressources/
+    └── Exemple_fiche_Moodle.md                 — Exemple de référence (fiche NUMERIQUE)
 ```
 
 ## Contexte
 
 - Public cible : collègues universitaires (enseignants-chercheurs, BIATSS)
-- Format envisagé : à définir (demi-journée, journée, série de modules ?)
-- Ancrage institutionnel : à préciser (initiative personnelle, commande institutionnelle ?)
+- Format formation finale : à définir après le retour du séminaire
+- Première étape : présentation séminaire 18/06/2026 (15 min, hybride présentation + live démo)
+- Support : présentation HTML dynamique (pas de PowerPoint), via Claude Design
 
 ## Notes de travail
 
